@@ -13,7 +13,7 @@
     "time": 5325,
     "timeDay": 6072,
     "timeWeek": 4883,
-    "timeMonth": 5325,
+    "timeMonth": 5319,
     "timeYear": 5325,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 187,
     "timeDay": 156,
     "timeWeek": 158,
-    "timeMonth": 187,
+    "timeMonth": 186,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://admin.gofeels.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.gofeels.com.ico",
     "slug": "go-feels-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,9 +49,10 @@
     "time": 811,
     "timeDay": 390,
     "timeWeek": 545,
-    "timeMonth": 811,
+    "timeMonth": 812,
     "timeYear": 811,
     "dailyMinutesDown": {
+      "2023-11-20": 0,
       "2023-11-01": 27
     }
   }
