@@ -40,7 +40,7 @@
     "url": "https://admin.gofeels.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.gofeels.com.ico",
     "slug": "go-feels-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 734,
     "timeYear": 784,
     "dailyMinutesDown": {
+      "2023-12-01": 0,
       "2023-11-01": 27
     }
   }
