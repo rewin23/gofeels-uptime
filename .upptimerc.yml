@@ -17,7 +17,10 @@ sites:
     url: https://reserva.gofeels.com
   - name: GoFeels Roombeast service
     url: https://roombeast.gofeels.com
-
+  - name: GoFeels gitlab 
+    url: https://gitlab.gofeels.com
+  - name: GoFeels gitlab registry
+    url: https://registry.gitlab.gofeels.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
