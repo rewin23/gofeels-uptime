@@ -4,18 +4,20 @@
     "url": "https://api.gofeels.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.gofeels.com.ico",
     "slug": "go-feels-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 518,
-    "timeDay": 475,
+    "timeDay": 593,
     "timeWeek": 518,
     "timeMonth": 518,
     "timeYear": 518,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-30": 0
+    }
   },
   {
     "name": "GoFeels website",
@@ -23,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gofeels.com.ico",
     "slug": "go-feels-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4566,
     "timeDay": 2735,
     "timeWeek": 3763,
     "timeMonth": 4353,
     "timeYear": 4566,
-    "dailyMinutesDown": {
-      "2024-01-30": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GoFeels PMS",
