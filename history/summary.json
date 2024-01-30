@@ -22,18 +22,20 @@
     "url": "https://www.gofeels.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.gofeels.com.ico",
     "slug": "go-feels-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4636,
-    "timeDay": 6442,
-    "timeWeek": 4403,
-    "timeMonth": 4563,
-    "timeYear": 4636,
-    "dailyMinutesDown": {}
+    "time": 4602,
+    "timeDay": 3724,
+    "timeWeek": 4064,
+    "timeMonth": 4459,
+    "timeYear": 4602,
+    "dailyMinutesDown": {
+      "2024-01-30": 0
+    }
   },
   {
     "name": "GoFeels PMS",
