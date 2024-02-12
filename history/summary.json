@@ -4,19 +4,19 @@
     "url": "https://api.gofeels.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.gofeels.com.ico",
     "slug": "go-feels-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1183,
-    "timeDay": 863,
-    "timeWeek": 780,
-    "timeMonth": 1183,
-    "timeYear": 1183,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1159,
+    "timeDay": 763,
+    "timeWeek": 756,
+    "timeMonth": 1159,
+    "timeYear": 1159,
     "dailyMinutesDown": {
-      "2024-02-12": 0
+      "2024-02-12": 24
     }
   },
   {
