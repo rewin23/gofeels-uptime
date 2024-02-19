@@ -27,19 +27,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gofeels.com.ico",
     "slug": "go-feels-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4540,
     "timeDay": 3314,
     "timeWeek": 4139,
     "timeMonth": 4219,
     "timeYear": 4540,
-    "dailyMinutesDown": {
-      "2024-02-19": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GoFeels PMS",
@@ -142,18 +140,20 @@
     "url": "https://gitlab.gofeels.com",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.gofeels.com.ico",
     "slug": "go-feels-gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 878,
-    "timeDay": 709,
-    "timeWeek": 994,
-    "timeMonth": 878,
-    "timeYear": 878,
-    "dailyMinutesDown": {}
+    "time": 861,
+    "timeDay": 564,
+    "timeWeek": 922,
+    "timeMonth": 861,
+    "timeYear": 861,
+    "dailyMinutesDown": {
+      "2024-02-19": 0
+    }
   },
   {
     "name": "GoFeels gitlab registry",
