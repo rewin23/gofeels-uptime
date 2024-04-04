@@ -4,10 +4,10 @@
     "url": "https://api.gofeels.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.gofeels.com.ico",
     "slug": "go-feels-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 870,
@@ -16,6 +16,7 @@
     "timeMonth": 667,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2024-04-04": 1,
       "2024-02-19": 16,
       "2024-02-18": 28,
       "2024-02-13": 20,
@@ -47,10 +48,10 @@
     "url": "https://app.gofeels.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.gofeels.com.ico",
     "slug": "go-feels-pms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
@@ -58,7 +59,9 @@
     "timeWeek": 228,
     "timeMonth": 237,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 1
+    }
   },
   {
     "name": "GoFeels Dashboard",
@@ -66,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.gofeels.com.ico",
     "slug": "go-feels-dashboard",
     "status": "down",
-    "uptime": "84.16%",
+    "uptime": "83.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.09%",
-    "uptimeYear": "84.16%",
+    "uptimeMonth": "12.90%",
+    "uptimeYear": "83.97%",
     "time": 602,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 551,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2024-04-04": 29,
+      "2024-04-04": 549,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
@@ -117,10 +120,10 @@
     "url": "https://reserva.gofeels.com",
     "icon": "https://icons.duckduckgo.com/ip3/reserva.gofeels.com.ico",
     "slug": "go-feels-motor-de-reserva",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
@@ -128,7 +131,9 @@
     "timeWeek": 246,
     "timeMonth": 254,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 1
+    }
   },
   {
     "name": "GoFeels Booking service",
@@ -171,9 +176,9 @@
     "url": "https://gitlab.gofeels.com",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.gofeels.com.ico",
     "slug": "go-feels-gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.95%",
@@ -183,6 +188,7 @@
     "timeMonth": 561,
     "timeYear": 859,
     "dailyMinutesDown": {
+      "2024-04-04": 0,
       "2024-03-14": 54
     }
   },
@@ -191,9 +197,9 @@
     "url": "https://registry.gitlab.gofeels.com",
     "icon": "https://icons.duckduckgo.com/ip3/registry.gitlab.gofeels.com.ico",
     "slug": "go-feels-gitlab-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -202,6 +208,8 @@
     "timeWeek": 181,
     "timeMonth": 207,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 0
+    }
   }
 ]
