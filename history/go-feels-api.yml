@@ -1,7 +1,7 @@
 url: https://api.gofeels.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-07T20:41:30.540Z
+status: up
+code: 200
+responseTime: 29191
+lastUpdated: 2024-11-07T20:52:14.744Z
 startTime: 2024-01-24T00:28:58.078Z
 generator: Upptime <https://github.com/upptime/upptime>
