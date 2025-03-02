@@ -1,7 +1,7 @@
 url: https://registry.gitlab.gofeels.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-02T13:39:35.357Z
+status: up
+code: 200
+responseTime: 216
+lastUpdated: 2025-03-02T13:48:09.901Z
 startTime: 2024-01-24T00:34:43.213Z
 generator: Upptime <https://github.com/upptime/upptime>
